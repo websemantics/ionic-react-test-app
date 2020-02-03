@@ -16,7 +16,7 @@ This app is the JavaScript transpile of [Test App](https://github.com/ionic-team
 * [ESM Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) and
 * [Import Maps](https://github.com/WICG/import-maps).
 
-<img src="public/assets/screenshot.png" alt="Test app">
+<img src="public/img/screenshot.png" alt="Test app">
 
 ## Similar Apps
 
